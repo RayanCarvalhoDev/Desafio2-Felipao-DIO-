@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para consolidar conceitos fundamentais de programa
 -  Laços de repetição
 -  Estruturas de decisão (if/else)
 -  Lógica de programação
--  -  Funções
+-  Funções
 
 ## 🎯 Objetivo
 
